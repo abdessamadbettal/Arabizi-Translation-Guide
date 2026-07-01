@@ -11,21 +11,29 @@ Arabizi is an informal writing system used by millions of Arabic speakers across
 
 ## 📑 Table of Contents
 
-- [What is Arabizi?](#-what-is-arabizi)
-- [Why is Arabizi Used?](#-why-is-arabizi-used)
-- [The Arabizi Alphabet](#-the-arabizi-alphabet)
-  - [Number Replacements](#number-replacements)
-  - [Latin Letter Mapping](#latin-letter-mapping)
-  - [Combined Letters (Digraphs)](#combined-letters-digraphs)
-- [Regional Variations](#-regional-variations)
-- [Vocabulary & Examples](#-vocabulary--examples)
-  - [Common Words](#common-words)
-  - [Everyday Expressions](#everyday-expressions)
-- [Transliteration Tips](#-transliteration-tips)
-- [For Developers (AI, NLP, LLMs)](#-for-developers)
-- [Online Transliteration Tools](#-online-transliteration-tools)
-- [Contributing](#-contributing)
-- [License](#-license)
+- [🔤 Arabizi Translation Guide](#-arabizi-translation-guide)
+  - [📑 Table of Contents](#-table-of-contents)
+  - [🌍 What is Arabizi?](#-what-is-arabizi)
+    - [Other Common Names](#other-common-names)
+  - [📱 Why is Arabizi Used?](#-why-is-arabizi-used)
+  - [🔠 The Arabizi Alphabet](#-the-arabizi-alphabet)
+    - [Number Replacements](#number-replacements)
+    - [Latin Letter Mapping](#latin-letter-mapping)
+    - [Combined Letters (Digraphs)](#combined-letters-digraphs)
+  - [🗺️ Regional Variations](#️-regional-variations)
+    - [🇪🇬 Egypt](#-egypt)
+    - [🇱🇧 🇸🇾 🇯🇴 🇵🇸 Levant (Shami)](#----levant-shami)
+    - [🇸🇦 🇦🇪 🇰🇼 🇶🇦 Gulf (Khaleeji)](#----gulf-khaleeji)
+    - [🇲🇦 🇩🇿 🇹🇳 North Africa (Darija)](#---north-africa-darija)
+  - [📖 Vocabulary \& Examples](#-vocabulary--examples)
+    - [Common Words](#common-words)
+    - [Everyday Expressions](#everyday-expressions)
+  - [✍️ Transliteration Tips](#️-transliteration-tips)
+  - [💻 For Developers](#-for-developers)
+  - [🛠️ Online Transliteration Tools](#️-online-transliteration-tools)
+  - [🔗 See Also](#-see-also)
+  - [🤝 Contributing](#-contributing)
+  - [📄 License](#-license)
 
 ---
 
@@ -208,6 +216,13 @@ This repository serves as a foundational reference for developers working on Ara
 * [**Arabizi.io**](https://arabizi.io): Convert Arabizi into Arabic script in real-time. Browser-based, local processing, with emoji and custom keyboard support.
 * [**Arabify.io**](https://arabify.io): Generate beautiful Arabic calligraphy and logos (supports PNG/SVG export).
 * [**Khatly.com**](https://khatly.com): High-quality Arabic typography and calligraphy generator with diacritics and gradient effects.
+
+For a broader curated list of Arabic-web tools (career, dev, and design), see [Awesome Arabic Tools](https://github.com/abdessamadbettal/awesome-arabic-tools).
+
+---
+
+## 🔗 See Also
+* [Awesome Arabic Tools](https://github.com/abdessamadbettal/awesome-arabic-tools) — Curated list of Arabic-web tools & resources.
 
 ---
 
